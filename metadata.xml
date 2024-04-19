@@ -1,8 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<name>He's a Phantom</name>
-	<directory>hes a phantom</directory>
-	<description/>
-	<version>1.0</version>
-	<visibility/>
-</metadata>
+    <name>He's a Phantom [SFX]</name>
+    <directory>hes a phantom</directory>
+    <description>[img=https://i.imgur.com/mz7QXQ3.png][/img]
+This mod simply plays a part of the Danny Phantom Theme, &quot;He's a Phantom&quot;, whenever Isaac becomes a ghost in Downpour/Dross.
 
+Issues? Report it [url=https://github.com/machasins/isaac_phantom_mod/issues]here[/url] or in the comments of this mod.
+
+Can be configured with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2681875787]Mod Config Menu[/url] to adjust how loud the sound is.
+
+
+
+Thanks to [url=https://www.youtube.com/@lazymattman]Lazy Mattman[/url] for inspiration.
+I used [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3034946842]Emote Binds[/url] for the creation of the demo videos.
+
+
+
+This is truly a Mattman moment.</description>
+    <version>1.0</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Sound Effects"/>
+</metadata>
